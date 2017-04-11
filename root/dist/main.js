@@ -24490,7 +24490,7 @@ exports = module.exports = __webpack_require__(1)(undefined);
 
 
 // module
-exports.push([module.i, "body {\n  background: #222222;\n  color: #eee;\n  font-size: 16px;\n}\nh1 {\n  font-size: 32px;\n}\nh2 {\n  font-size: 24px;\n  padding-top: 0.4em;\n  padding-left: 0.2em;\n  border-top: 0.2em dotted #333333;\n}\nli {\n  list-style-type: none;\n  margin-left: -1em;\n  color: #aaaaaa;\n  border-radius: 0.2em;\n}\na {\n  color: #4d90b3;\n}\na:hover {\n  color: #2e576b;\n}\n.nav-img {\n  width: 1em;\n  height: 1em;\n}\nhr {\n  height: 1px;\n  border-top: 0.4em dotted #444444;\n}\nblockquote {\n  padding: 0.15em 0.6em ;\n  margin: 0 0 0.6em 0.15em;\n  border-left: 0.3em dotted #444444;\n  font-size: 12.8px;\n}\n", ""]);
+exports.push([module.i, "body {\n  background: #222222;\n  color: #eee;\n  font-size: 16px;\n  margin-left: 1em;\n}\nh2 {\n  padding-top: 0.4em;\n  padding-left: 0.2em;\n  border-top: 0.2em dotted #333333;\n}\nli {\n  list-style-type: none;\n  color: #aaaaaa;\n  border-radius: 0.2em;\n}\na {\n  color: #4d90b3;\n}\na:hover {\n  color: #2e576b;\n}\n.nav-img {\n  width: 1em;\n  height: 1em;\n}\nhr {\n  height: 1px;\n  border-top: 0.4em dotted #444444;\n  margin-left: -1em;\n}\nblockquote {\n  padding: 0.15em 0.6em ;\n  margin: 0 0 0.6em 0.15em;\n  border-left: 0.3em dotted #444444;\n  font-size: 12.8px;\n}\n", ""]);
 
 // exports
 
